@@ -1,10 +1,10 @@
 # Implementation of A [CVPR_PAPER](https://www.cs.sfu.ca/~mori/research/papers/ibrahim-cvpr16.pdf) ,Name :A Hierarchical Deep Temporal Model for Group Activity Recognition
-##Real Data (62gb) are on Kaggle and Check MY [notebook](https://www.kaggle.com/code/hossamasrw/volleyball-b1-phase) ^_^
+## Real Data (62gb) are on Kaggle and Check MY [notebook](https://www.kaggle.com/code/hossamasrw/volleyball-b1-phase) ^_^
 ## i don't work on notebooks but for my limiting resources i utilize the 30h free gpu use
 ### videos_sample is just for POC (proof of concept) 
 
 
-##Original Dataset 
+## Original Dataset 
 You can download the original dataset from the following page:
 https://github.com/mostafa-saad/deep-activity-rec#dataset
 @inproceedings{msibrahiCVPR16deepactivity,
